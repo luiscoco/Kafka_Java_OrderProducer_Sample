@@ -1,3 +1,5 @@
+## Create a new Java application with VSCode
+
 We create a new folder to place the Java application.
 
 We right click inside the folder and we select the option **Open with VSCode**.
@@ -37,6 +39,8 @@ C:\Kafka with Java\OrderProducer> java -cp src App
 ```
 
 ![image](https://github.com/luiscoco/Kafka_Java_Training/assets/32194879/d4a98fb5-6da1-4398-b945-44be81cd9cfa)
+
+## Kafka producer source code
 
 Now we enter the **Kafka Producer source code** in VSCode
 
